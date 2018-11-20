@@ -23,6 +23,7 @@ description: "Semir serbaguna 100% natural untuk perawatan produk kulit seperti 
 
 # List of links in the navigation bar
 navbar-links:
+  Beranda: ""
   Beli Sekarang: "#belisekarang"
   Kontak: "#kontak"
 #  Artikel Perawatan:
